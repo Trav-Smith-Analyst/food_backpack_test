@@ -55,15 +55,3 @@ print(food_backpack(15))  # Input Bag Capacity: 15
 # Packed_Bag = food_backpack(bag_capacity)
 # print(Packed_Bag)
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
